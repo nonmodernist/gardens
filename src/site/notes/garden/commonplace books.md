@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/commonplace-books/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-08T11:07:31.514-05:00","updated":"2024-04-08T12:08:17.571-05:00"}
+{"dg-publish":true,"permalink":"/garden/commonplace-books/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-08T11:07:31.000-05:00","updated":"2024-04-08T20:32:25.000-05:00"}
 ---
 
-> [!quote] [Book and e-book: The Future of the Book](https://web.archive.org/web/20040220112000/http://www.futureofthebook.com/stories/storyReader$207)
+> [!quote] [Booke and e-book: The Future of the Book](https://web.archive.org/web/20040220112000/http://www.futureofthebook.com/stories/storyReader$207)
 > "The commonplace book began blank. The reader used it to collect premises, arguments and other quotes from the various books read. The commonplace book was always at hand for the next addition or as a conversational prompt. It might well fill up with contradictory snippets." 
 
 ![commonplace.png](/img/user/garden/commonplace.png)
