@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/garden/digital-garden/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-05T22:16:35.000-05:00","updated":"2024-04-08T18:18:39.000-05:00"}
+---
+
+I stumbled onto [the idea of the digital garden](https://obsidian.rocks/creating-a-digital-garden-in-obsidian/) while trying to answer a question about Obsidian. It immediately made me think of the [[garden/Welcome to the Garden#Why a "digital garden"?\|pre-blog web]] in a way that sparked my curiosity and imagination. Thinking on it further, I was reminded of [[garden/commonplace books\|commonplace books]], [Twine games](https://nonmodernist.com/next-lunar-baedeker/), and self-replicating web art projects like https://trashrobot.org/. I love [[gardens\|gardens]]. I wanted to try it out.
+
+I spend a lot of time thinking about how computers help or hinder our ability to think ecologically. In 2023, I developed a multimedia authoring course on apps and ebooks themed around [[garden/Shadow Libraries and Solarpunk Futures\|Shadow Libraries and Solarpunk Futures]], where one of the goals was to get students doing this kind of thinking about the relationship between digital technology and "nature." I focused on [[garden/solarpunk\|solarpunk]] because I wanted us to find [[hope\|hope]] for the future. For me, that hope is in the possibility that we can reshape how we think about digital tech to work with, and not against, the natural world.
