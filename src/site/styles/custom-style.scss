@@ -16,3 +16,10 @@ body {
     //   color: black;
     //  }
 }
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="placard"]::before,
+body.filetree-note-icon .filename[data-note-icon="placard"]::before,
+body.links-note-icon .internal-link[data-note-icon="placard"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="placard"]::before {
+  background-image: url(/img/placard_1faa7.png);
+}
