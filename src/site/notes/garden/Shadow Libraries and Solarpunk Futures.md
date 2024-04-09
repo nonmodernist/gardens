@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/shadow-libraries-and-solarpunk-futures/","tags":["🌳woody","📓Course"],"noteIcon":"3","created":"2024-04-07T19:11:17.917-05:00","updated":"2024-04-08T14:20:02.425-05:00"}
+{"dg-publish":true,"permalink":"/garden/shadow-libraries-and-solarpunk-futures/","tags":["🌳woody","📓Course"],"noteIcon":"3","created":"2024-04-07T19:11:17.000-05:00","updated":"2024-04-08T14:20:02.000-05:00"}
 ---
 
 > [!info] About this course
