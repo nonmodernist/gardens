@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/folk-horror/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-07T18:56:46.000-05:00","updated":"2024-04-08T20:32:48.000-05:00"}
+{"dg-publish":true,"permalink":"/garden/folk-horror/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-07T18:56:46.556-05:00","updated":"2024-04-08T20:32:48.574-05:00"}
 ---
 
 ### Folk Horror Film Syllabus
