@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/solarpunk/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-08T14:18:29.000-05:00","updated":"2024-04-08T20:13:01.000-05:00"}
+{"dg-publish":true,"permalink":"/garden/solarpunk/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-08T14:18:29.572-05:00","updated":"2024-04-08T20:13:01.417-05:00"}
 ---
 
 > [!quote] [Adam Flynn, "Solarpunk: Notes toward a manifesto"](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
