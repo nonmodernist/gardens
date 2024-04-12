@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/digital-garden/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-05T22:16:35.000-05:00","updated":"2024-04-09T10:26:19.486-05:00"}
+{"dg-publish":true,"permalink":"/garden/digital-garden/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-05T22:16:35.000-05:00","updated":"2024-04-09T10:26:19.000-05:00"}
 ---
 
 I stumbled onto [the idea of the digital garden](https://obsidian.rocks/creating-a-digital-garden-in-obsidian/) while trying to answer a question about Obsidian. It immediately made me think of the [[pre-blog web\|pre-blog web]] in a way that sparked my curiosity and imagination. Thinking on it further, I was reminded of [[garden/commonplace books\|commonplace books]], [Twine games](https://nonmodernist.com/next-lunar-baedeker/), and self-replicating web art projects like https://trashrobot.org/. I love [[gardens\|gardens]]. I wanted to try it out.
