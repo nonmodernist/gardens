@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome-to-the-garden/","tags":["gardenEntry"],"noteIcon":"placard","created":"2024-04-06T13:37:50.000-05:00","updated":"2024-04-09T10:32:54.738-05:00"}
+{"dg-publish":true,"permalink":"/garden/welcome-to-the-garden/","tags":["gardenEntry"],"noteIcon":"placard","created":"2024-04-06T13:37:50.000-05:00","updated":"2024-04-09T10:32:54.000-05:00"}
 ---
 
 Hello world, welcome to this [[garden/digital garden\|digital garden]]. You can explore what's here by clicking any links you find. Or you can expand the menu to the left and go directly to a page that looks interesting.
