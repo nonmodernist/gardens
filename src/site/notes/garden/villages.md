@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/villages/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-06T21:49:24.000-05:00","updated":"2024-04-08T14:23:55.000-05:00"}
+{"dg-publish":true,"permalink":"/garden/villages/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-06T21:49:24.000-05:00","updated":"2024-04-08T14:23:55.096-05:00"}
 ---
 
 I recently designed a course on genre in film. The theme for the first iteration of the class is [[garden/folk horror\|folk horror]]—a genre where villages frequently appear. 
