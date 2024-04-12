@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/commonplace-books/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-08T11:07:31.000-05:00","updated":"2024-04-08T20:32:25.000-05:00"}
+{"dg-publish":true,"permalink":"/garden/commonplace-books/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-08T11:07:31.514-05:00","updated":"2024-04-08T20:32:25.524-05:00"}
 ---
 
 > [!quote] [Booke and e-book: The Future of the Book](https://web.archive.org/web/20040220112000/http://www.futureofthebook.com/stories/storyReader$207)
