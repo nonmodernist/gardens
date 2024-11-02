@@ -1,9 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/garden/folk-horror/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-07T18:56:46.000-05:00","updated":"2024-04-08T20:32:48.000-05:00"}
+{"dg-publish":true,"permalink":"/garden/folk-horror/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-07T18:56:46.000-05:00","updated":"2024-11-02T14:38:02.653-05:00"}
 ---
 
-### Folk Horror Film Syllabus
-- *The White Reindeer* (1952, Norway)
+**Folk horror** is a subgenre of horror film and horror fiction that uses elements of folklore to invoke fear and foreboding.
+
+## Folk horror chain
+Adam Scovell's "folk horror chain" is a narrative theory that presents "a linking set of narrative traits that have causational and interlinking consequences." The four elements of the folk horror chain are:
+
+1. Landscape
+2. Isolation
+3. Skewed morals or beliefs
+4. The summoning or the happening
+
+## Folk Horror Film Syllabus
+- *Häxan* (1922, Sweden)
+- *The White Reindeer* (1952, Finland)
 - *Night of the Demon* (1957, UK)
 - *Kuroneko* (1968, Japan)
 - *Valerie and Her Week of Wonders* (1970, Czechoslovakia)
