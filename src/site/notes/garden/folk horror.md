@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/folk-horror/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-07T18:56:46.000-05:00","updated":"2024-11-02T14:38:02.653-05:00"}
+{"dg-publish":true,"permalink":"/garden/folk-horror/","tags":["🌱seedling"],"noteIcon":"1","created":"2024-04-07T18:56:46.000-05:00","updated":"2024-11-02T15:42:45.174-05:00"}
 ---
 
 **Folk horror** is a subgenre of horror film and horror fiction that uses elements of folklore to invoke fear and foreboding.
@@ -17,7 +17,7 @@ Adam Scovell's "folk horror chain" is a narrative theory that presents "a linkin
 - *The White Reindeer* (1952, Finland)
 - *Night of the Demon* (1957, UK)
 - *Kuroneko* (1968, Japan)
-- *Valerie and Her Week of Wonders* (1970, Czechoslovakia)
+- *Lokis: A Manuscript of Professor Wittembach* (1970, Poland)
 - *Blood on Satan's Claw* (1971, UK)
 - *The Wicker Man* (1972, UK)
 - *Ganja & Hess* (1973, US)
