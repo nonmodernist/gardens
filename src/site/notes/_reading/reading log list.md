@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/reading-log-list/","tags":["bookList"],"noteIcon":"placard","created":"2024-02-24T20:42:29.000-06:00","updated":"2024-12-02T16:43:46.684-06:00"}
+{"dg-publish":true,"dg-path":"garden/reading.md","permalink":"/garden/reading/","tags":["bookList"],"noteIcon":"placard","created":"2024-02-24T20:42:29.000-06:00","updated":"2024-12-02T19:33:52.328-06:00"}
 ---
 
 ## Navigate by year
