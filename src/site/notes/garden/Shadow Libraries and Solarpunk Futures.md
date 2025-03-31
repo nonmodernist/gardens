@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/shadow-libraries-and-solarpunk-futures/","tags":["🌳woody","📓Course"],"noteIcon":"3","created":"2024-04-07T19:11:17.000-05:00","updated":"2024-04-12T12:58:11.000-05:00"}
+{"dg-publish":true,"permalink":"/garden/shadow-libraries-and-solarpunk-futures/","tags":["🌳woody","📓Course"],"noteIcon":"3","created":"2024-04-07T19:11:17.000-05:00","updated":"2025-03-30T21:08:46.373-05:00"}
 ---
 
 > [!info] About this course
@@ -14,7 +14,7 @@ Through a practice of [[critical making\|critical making]]—that is, a combinat
 ### Guiding Principles
 Since we’re approaching the authoring of mobile apps and ebooks a bit differently, I want to share with you some of the principles that guide how I think about and teach digital technologies:
 
-- [[garden/Technology\|Technology]] is a broad category that begins at least as early as the first stone tools; it is not synonymous with the digital and networked technologies that we have come to use in our daily lives.
+- [[garden/technology\|technology]] is a broad category that begins at least as early as the first stone tools; it is not synonymous with the digital and networked technologies that we have come to use in our daily lives.
 - Digital technology is not inherently good, ethical, or better than analog technology.
 - All technological innovations come with positive and negative consequences, and all technological solutions and implementations involve ethical considerations.
 - Digital technologies often use [[garden/metaphors\|metaphors]] that obscure the [[material\|material]], environmental, and [[labor\|labor]] realities that underpin them. For example, there is no such thing as “the cloud”—there are only other computers in other locations. “Artificial intelligence” is trained and operated using underpaid and exploited labor.
